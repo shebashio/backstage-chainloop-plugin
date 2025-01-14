@@ -1,0 +1,13 @@
+chainloop:
+  webhookToken: ${CHAINLOOP_WEBHOOK_TOKEN}
+
+backend:
+  baseUrl: localhost:7007
+
+app:
+  baseUrl: localhost:7007
+
+auth:
+  environment: development
+  providers:
+    guest: {}

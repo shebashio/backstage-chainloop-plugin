@@ -1,0 +1,4 @@
+/node_modules
+/node_modules*
+node_modules/.bin/msw
+node_modules/.bin/backstage-cli
